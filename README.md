@@ -1,0 +1,2 @@
+# Invoiceing
+For every product sold or service rendered, an invoice is made, the first step for you to get paid. Where before payments are mostly cash-based and books are kept manually, leading to erroneous billing and delayed payables, today, we enjoy the vast benefits of financial technologies like electronic transfers, card payments, and online payments which speed up transactions. Invoicing software makes things even faster… especially that process that rings cash to your ears: collection.
