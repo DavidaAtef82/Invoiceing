@@ -1,0 +1,9 @@
+{
+    "require": {
+        "adodb/adodb-php": "^5.20",
+        "phpoffice/phpexcel": "^1.8",
+        "phpmailer/phpmailer": "^5.2",
+        "predis/predis": "^1.1",
+        "smarty/smarty": "^3.1"
+    }
+}

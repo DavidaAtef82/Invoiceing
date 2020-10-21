@@ -1,0 +1,11 @@
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{REMOTE_ADDR} !^1\.1\.1\.1
+#RewriteCond %{REQUEST_URI} !^/public/index\.php
+#RewriteCond %{REQUEST_URI} !\.(png|css|js|jpg)$
+#RewriteRule ^(.*)$ /public/index.php?response=503 [R=307,NC,L]
+
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^ hitstc/index.php [QSA,L]
